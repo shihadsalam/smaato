@@ -1,0 +1,5 @@
+com/smaato/service/controller/RESTController.class
+com/smaato/service/RestServiceApplication.class
+com/smaato/service/data/RequestCounterRepository.class
+com/smaato/service/data/RequestCounter.class
+com/smaato/service/data/RequestCounterService.class
